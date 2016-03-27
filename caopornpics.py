@@ -21,4 +21,4 @@ def auto_count(start,ending):
 		getpics(url,index)
 	print('pics from: ',start,' to ',ending,' finished! ')
 
-auto_count(200,205)
+auto_count(?,?)
